@@ -1,7 +1,7 @@
 
 ---
 
-# Adupa Nithin Sai's Portfolio
+# My Portfolio
 
 ## Overview
 Welcome to my portfolio repository on GitHub! Here, you'll find a showcase of projects that demonstrate my skills and creativity in web development and design. I specialize in creating interactive and visually appealing experiences using HTML, CSS, JavaScript, SCSS, and various multimedia elements like images, SVGs, and PDFs.
